@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+table, th, td {
+  border: 2px solid red;
+  border-collapse: collapse;
+  width: 80%;
+  height: 50px;
+}
+
+#tab1 {
+  width: 50%;
+}
+
+tr:hover {
+  background-color: #cd848f;
+}
